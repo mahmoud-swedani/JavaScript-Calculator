@@ -1,0 +1,8 @@
+.outputScreen {
+    font-size: 40px;
+    font-family: Roboto;
+    
+    color: white;
+    text-align: center;
+    line-height: 50px;
+}

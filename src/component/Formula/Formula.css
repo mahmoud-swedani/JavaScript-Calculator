@@ -1,0 +1,12 @@
+
+.formulaScreen {
+    min-height: 30px;
+    font-family: Roboto;
+    font-size: 25px;
+    color: orange;
+    text-align: right;
+    vertical-align: text-top;
+    line-height: 30px;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}

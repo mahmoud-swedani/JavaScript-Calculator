@@ -1,0 +1,23 @@
+
+.calculator {
+    border: 2px solid #47476b;
+    border-radius: 10px;
+    padding: 40px 15px 15px 15px;
+    background: black;
+    width: 270px;
+  }
+  
+  
+.author {
+    text-align: center;
+    font-family: Share Tech Mono, sans;
+    margin-top: 15px;
+  
+  }
+  
+  .author a {
+    text-decoration: none;
+    color: #00264d;
+    line-height: 26px;
+  }
+  
